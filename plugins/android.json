@@ -7,44 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
-        "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
         }
     },
     "dependent_plugins": {
-        "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
-        },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.pancieraarredamenti"
+            "PACKAGE_NAME": "com.pancieraarredamenti.PancieraArredamenti"
         }
     }
 }
